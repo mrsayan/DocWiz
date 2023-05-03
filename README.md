@@ -14,7 +14,7 @@ An automatic document generator for generating customizable Machine Learning ris
 
 First clone the project by the following command:
 ```bash 
-git clone https://github.com/Pratyush-exe/DocWiz.git
+git clone https://github.com/mrsayan/DocWiz.git
 ```
 
 **`Linux`** 
