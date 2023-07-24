@@ -1,0 +1,7 @@
+.vscode/
+.mrm_venv/
+.idea/
+src/__pycache__
+venv
+src/__pycache__/
+build/
